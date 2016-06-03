@@ -12,4 +12,5 @@ Options: `[<number of nodes to generate> <base version float> <max degree per no
 #### Example
 
 `java -jar KaInfection.jar 100 0f 5 limited 30 1f`
+
 Generates 100 user nodes with a base version of 0f. Performs a limited infection with a target of 30 user nodes with version 1f.
